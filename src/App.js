@@ -23,7 +23,7 @@ function App()
 {
 let router=createBrowserRouter([
   {
-    path:'',
+    path:'/PayLaterrr',
     element:<RootLayout/>,
     children:[
       {

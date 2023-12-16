@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/vnr-paylater/static/css/main.0c14a032.css",
+    "main.js": "/vnr-paylater/static/js/main.e825357d.js",
+    "static/js/787.fa9cb370.chunk.js": "/vnr-paylater/static/js/787.fa9cb370.chunk.js",
+    "static/media/vnr002.jpeg": "/vnr-paylater/static/media/vnr002.9e92149f1ac813f607bf.jpeg",
+    "static/media/Student_Login.jpeg": "/vnr-paylater/static/media/Student_Login.0da26a9a111ff8c5863d.jpeg",
+    "static/media/staff.jpeg": "/vnr-paylater/static/media/staff.67fe65c9c4d9db6813f9.jpeg",
+    "static/media/student.jpeg": "/vnr-paylater/static/media/student.cf8a8853efa941f820a7.jpeg",
+    "index.html": "/vnr-paylater/index.html",
+    "main.0c14a032.css.map": "/vnr-paylater/static/css/main.0c14a032.css.map",
+    "main.e825357d.js.map": "/vnr-paylater/static/js/main.e825357d.js.map",
+    "787.fa9cb370.chunk.js.map": "/vnr-paylater/static/js/787.fa9cb370.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c14a032.css",
+    "static/js/main.e825357d.js"
+  ]
+}
